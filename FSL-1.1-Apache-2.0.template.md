@@ -30,18 +30,15 @@ and redistribute the Software for any Permitted Purpose identified below.
 ### Permitted Purpose
 
 A Permitted Purpose is any purpose other than a Competing Use. A Competing Use
-means use of the Software in or for a commercial product or service that
-competes with the Software or any other product or service we offer using the
-Software as of the date we make the Software available.
+means making the Software available to others in a commercial product or
+service that:
 
-Competing Uses specifically include using the Software:
+1. substitutes for any of our products or services; or
 
-1. as a substitute for any of our products or services;
+2. offers the same or substantially similar functionality as the Software; or
 
-2. in a way that exposes the APIs of the Software; and
-
-3. in a product or service that offers the same or substantially similar
-   functionality to the Software.
+3. otherwise competes with the Software or any other product or service we
+offer using the Software as of the date we make the Software available.
 
 Permitted Purposes specifically include using the Software:
 
