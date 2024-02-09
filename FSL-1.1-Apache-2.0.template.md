@@ -87,10 +87,10 @@ trademarks, trade names, service marks or product names.
 
 ## Change License
 
-On the second anniversary of the date we make the Software available, the
-Software will become available under the Apache 2.0 license. On that date, the
-Terms and Conditions above automatically terminate and the following terms
-become effective:
+We grant you an additional license to use the Software under the Apache 2.0
+license that becomes effective on the second anniversary of the date we make
+the Software available. On or after that date, if you elect to use the Software
+under the Apache 2.0 license, the following will apply:
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use
 this file except in compliance with the License.
