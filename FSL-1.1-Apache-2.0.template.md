@@ -1,8 +1,8 @@
-# Functional Source License, Version 1.0, Apache 2.0 Change License
+# Functional Source License, Version 1.1, Apache 2.0 Change License
 
 ## Abbreviation
 
-FSL-1.0-Apache-2.0
+FSL-1.1-Apache-2.0
 
 ## Notice
 
