@@ -1,4 +1,4 @@
-# Functional Source License, Version 1.1, Apache 2.0 Additional License
+# Functional Source License, Version 1.1, Apache 2.0 Future License
 
 ## Abbreviation
 
@@ -85,12 +85,13 @@ Except for displaying the License Details and identifying us as the origin of
 the Software, you have no right under these Terms and Conditions to use our
 trademarks, trade names, service marks or product names.
 
-## Additional License Grant
+## Grant of Future License
 
-We hereby grant you an additional license to use the Software under the Apache
-License, Version 2.0 that is effective on the second anniversary of the date we
-make the Software available. On or after that date, if you elect to use the
-Software under the Apache License, Version 2.0, the following will apply:
+We hereby irrevocably grant you an additional license to use the Software under
+the Apache License, Version 2.0 that is effective on the second anniversary of
+the date we make the Software available. On or after that date, if you elect to
+use the Software under the Apache License, Version 2.0, the following will
+apply:
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use
 this file except in compliance with the License.
